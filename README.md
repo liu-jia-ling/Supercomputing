@@ -1,4 +1,5 @@
 ## Hi there 👋
+这是一个关于Linux的笔记（注意读对发音）😀😀😀
 
 <!--
 **liu-jia-ling/liu-jia-ling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
